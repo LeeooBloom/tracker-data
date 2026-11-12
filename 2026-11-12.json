@@ -19,8 +19,8 @@
   },
   {
     "url": "https://www.ozon.ru/travel/flight/moskva-mow/mineralnye-vody-mrv/",
-    "regular_price": null,
+    "regular_price": 3210,
     "sale_price": null,
-    "has_credit": false
+    "has_credit": true
   }
 ]
