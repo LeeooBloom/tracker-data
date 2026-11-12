@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://www.onetwotrip.com/ru/aviabilety/MOW_MRV/",
+    "regular_price": 3694,
+    "sale_price": null,
+    "has_credit": false
+  },
+  {
+    "url": "https://www.kupibilet.ru/aviabilety/iz-moskva/v-mineralnye-vody",
+    "regular_price": 3194,
+    "sale_price": null,
+    "has_credit": false
+  },
+  {
+    "url": "https://biletyplus.ru/aviabilety/moskva-mow/mineralnye-vody-mrv",
+    "regular_price": 2194,
+    "sale_price": null,
+    "has_credit": false
+  },
+  {
+    "url": "https://www.ozon.ru/travel/flight/moskva-mow/mineralnye-vody-mrv/",
+    "regular_price": null,
+    "sale_price": null,
+    "has_credit": false
+  }
+]
